@@ -1,0 +1,12 @@
+ {
+            Name: 'Name2',
+            BaseURI: 'BaseURI2',
+            Type: 'Type2',
+            GraphApiClientID: 'GraphApiClientID2',
+            GraphApiClientSecret: 'GraphApiClientSecret2',
+            rows: [{ policy: 'policy1', default1: 'false' }, { policy: 'policy2', default1: 'true' }, { policy: 'policy3', default1: 'false' }],
+            CreatedBy: 'John Carter',
+            CreatedDate: '05-01-2020',
+            ModifiedBy: 'John Carter',
+            ModifiedDate: '05-01-2020'
+  }
